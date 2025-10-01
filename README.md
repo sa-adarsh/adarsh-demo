@@ -1,4 +1,4 @@
 # adarsh-demo
 This is my first git repository.
 <br>
-Author - Adarsh
+Author - Adarsh (programming)
